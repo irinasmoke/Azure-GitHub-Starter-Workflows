@@ -1,4 +1,4 @@
-#GitHub Actions Starter Workflows for Azure
+# GitHub Actions Starter Workflows for Azure
 
 This repo contains a sampling of starter workflows for deploying application to Azure using GitHub Actions.
 
